@@ -3,7 +3,7 @@ export function Seccion2 (){
 
     return(
         <>
-            <div class="slider-box">
+            <div className="slider-box">
 
 <ul>
     <li>
