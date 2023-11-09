@@ -6,7 +6,11 @@ export function Home(){
     return(
         <>
         <NavHome></NavHome>
+        <br />
+        <br />
+        <br />
         <Seccion1></Seccion1>
+        <br />
         <Seccion2></Seccion2>
         <Footer></Footer>
         </>

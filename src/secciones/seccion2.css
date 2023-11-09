@@ -10,7 +10,7 @@
     height: auto;
     margin: 20px auto 0;
     overflow: hidden;
-    background-image: src;
+    border-radius: 15px;
 }
 
 .slider-box ul{
